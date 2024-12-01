@@ -1,0 +1,15 @@
+# Ignore API keys
+.env
+
+# Ignore build and temporary files
+dist/
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+
+
